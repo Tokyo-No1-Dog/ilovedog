@@ -1,5 +1,4 @@
 <?php
-
 $count = 0;
 for($i=1896;$i<=2020;$i=$i+4) {
   $count = $count + 1;
